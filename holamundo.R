@@ -2,6 +2,7 @@ print("hola mundo r")
 
 a <- 3
 
-media <- function(x) {
-  return(mean(x))
+mediana <- function(x) {
+  return(median(x))
 }
+
